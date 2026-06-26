@@ -11,8 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
-    "minecraft-data": "^3.120.0",
-    "mineflayer": "^4.15.0",
+    "minecraft-data": "^3.110.2",
+    "mineflayer": "^4.37.1",
     "mineflayer-pathfinder": "^2.4.0"
   }
 }
